@@ -1,0 +1,9 @@
+Step 1: Read the student records from the file.
+Step 2: Initialize counters for married men, single men, married women, and single women.
+Step 3: Initialize an empty list to store eligible bachelors (single men over 30).
+Step 4: Iterate through each student record.
+Step 5: Check the gender and marital status of each student.
+Step 6: Update the counters based on gender and marital status.
+Step 7: If the student is a single man over 30, add their name and age to the eligible bachelors list.
+Step 8: Print the student summary report.
+Step 9: If there are eligible bachelors, print the eligible bachelor's report.
